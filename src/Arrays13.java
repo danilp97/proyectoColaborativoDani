@@ -42,6 +42,7 @@ public class Arrays13 {
 		} else {
 			System.out.println(ordenado);
 		}
+		System.out.println("Hola Dani);
 		scan.close();
 		}
 }
